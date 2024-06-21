@@ -22,18 +22,6 @@ Odds and ends. Includes subtopics such as natural language processing, and image
 
     Included here: nltk; Spacy; OpenCV/cv2; scikit-image; Cython.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Contents {docsify-ignore}
 * [Machine Learning](#ml)
 * [Deep Learning](#dl)
